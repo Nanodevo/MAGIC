@@ -2,6 +2,12 @@
 
 A physics-based simulator for trapped-ion quantum computing with detailed explanations of the underlying physics at every layer.
 
+## Interactive 3D Visualization — MAGIC (eleQtron) vs Standard
+
+![MAGIC trapped-ion quantum computer](magic_demo.gif)
+
+> **Open `interactive_3d.html` in your browser** to explore both setups in 3D — click any component to learn how it works.
+
 ## Quick Start
 
 ```bash
